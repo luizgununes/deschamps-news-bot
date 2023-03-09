@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^112.0.0",
+    "moment-timezone": "^0.5.40",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#fix-buttons-list"
+  }
+}
